@@ -21,8 +21,8 @@ cchardet
 ```
 ### Installation
 ```
-git clone https://github.com/Exaphis/HackQ-Trivia.git
-cd HackQ-Trivia
+git clone https://github.com/tjwolf35/HQ-Trivia-Cheat-on-Google-Colab.git
+cd HQ-Trivia-Cheat-on-Google-Colab
 pip install -r requirements.txt
 ```
 
@@ -36,11 +36,10 @@ In Python 3, run:
 import nltk
 nltk.download("all")
 ```
-Enter your bearer token in the conn_settings.txt file. This value can be found by sniffing the traffic on your phone. The bearer token should be one line, without the word Bearer.
 
 ### Usage
 ```
 python3 hq_main.py
 ```
 
-If ```RuntimeError: Connection settings invalid``` appears, then your bearer token is invalid.
+If ```RuntimeError: Connection settings invalid``` appears, then the bearer token is invalid and a new one will need to be added.
