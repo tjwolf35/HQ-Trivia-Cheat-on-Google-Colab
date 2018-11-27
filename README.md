@@ -1,6 +1,8 @@
 # HQ Trivia Cheat on Google Colab
 Cloud based HQ Trivia cheat on Google Colab. Bot created by Exaphis
 
+# https://colab.research.google.com/drive/1U6SPcbOAE-nqEF_P0HSwsbJp5oYOzWoD
+
 ## Getting Started
 Requires Python 3.6+
 ### Dependencies
