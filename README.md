@@ -1,5 +1,5 @@
-# HackQ-Trivia
-Yet another HQ trivia bot, in Python. Automatically scrapes HQ Trivia questions without OCR and answers them.
+# HQ Trivia Cheat on Google Colab
+Cloud based HQ Trivia cheat on Google Colab. Bot created by Exaphis
 
 ## Getting Started
 Requires Python 3.6+
